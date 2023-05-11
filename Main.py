@@ -1,6 +1,8 @@
-#Hecho por Kirill Makienko Tkachenko
-#10/05/23
-#Parte del codigo se encuentra en: https://www.emqx.com/en/blog/how-to-use-mqtt-in-python
+# Leader: Kirill Makienko Tkachenko
+# Participant: Dulce Nahomi Bucio Rivas
+# Supervisor: Óscar Omar Zepeda Vazquez 
+# 10/05/23
+# Code reference: https://www.emqx.com/en/blog/how-to-use-mqtt-in-python
 
 #\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
