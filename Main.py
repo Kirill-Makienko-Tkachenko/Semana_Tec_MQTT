@@ -108,7 +108,7 @@ if sys.argv[1] == "send":
     while True: # Allows to keep sending messages 
         client = connect_mqtt(broker) # Establish the connection 
         publish(client, topic, message) # Publish the message to the topic
-        message = input("Cual es tu mensaje (Apaga la consola para salir): ") # Receives the message to publish 
+        message = input("Your message: ") # Receives the message to publish 
 
 
 elif sys.argv[1] == "subscribe":
@@ -118,5 +118,5 @@ elif sys.argv[1] == "subscribe":
     client.loop_forever() # Allows the client to keep receiving messages
 
 else:
-    print("Opcion invalida\n")
-    print("Terminando programa\n")
+    print("Invalid option!\n")
+    print("Closing program... \n")
